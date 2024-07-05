@@ -65,7 +65,7 @@ After installing our app.
  User have to enter City name and hit Get Weather button.
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="[screenshot/homepage.png](https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/homepage.png)" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/homepage.png" width="200" height="400" >
 </div>
 
 #### <h3><ins>Weather Screen.</ins></h3>
