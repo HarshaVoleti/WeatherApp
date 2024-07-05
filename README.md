@@ -3,7 +3,7 @@
   <h1 align="center"> WeatherApp </h1>
 <p align="center">A <b>Weather App</b> made using Flutter and OpenWeatherAPI</p>
 
-<p align="center">A simple weather app built with Flutter that displays current weather information, tomorrow's forecast, and yesterday's weather for a given city. The app also fetches and displays a background image of the city.</p>
+<p align="center">A simple weather app built with Flutter that displays current weather information for a given city. The app also fetches and displays a background image of the city.</p>
 
 ## 📝 Project Info
 The contents in this project follow the following structure, where all views are containerised into screens.
