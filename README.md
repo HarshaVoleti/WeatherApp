@@ -39,6 +39,13 @@ weatherapp/
   <li><img src="https://img.icons8.com/color/48/null/flutter.png" width="20" height="20">  Flutter</li>
   </ul>
 
+  #### Pre requisites
+  <ul>
+  <li><img src="https://img.icons8.com/color/48/null/flutter.png" width="20" height="20">  Flutter SDK installed in your system</li>
+  <li>Visual Studio Code, Android Studio and Xcode(if using mac) installed</li>
+  <li>Android or IOS emulators installed and running</li>
+  </ul>
+
   ##### Clone the repository
 ```bash
 git clone https://github.com/HarshaVoleti/WeatherApp.git
