@@ -77,10 +77,10 @@ Here in this screen, you can see Current weather condition including temperature
 <img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/Dubai.png" width="200" height="400" >
 </div>
 
-🛠️ Built With
+## 🛠️ Built With
 Flutter - The UI toolkit used to build the app.
 Provider - State management solution.
 OpenWeatherMap API - Weather data provider.
 Unsplash API - City image provider.
-💬 Contact
+## 💬 Contact
 Harsha Voleti - mailharshavoleti@gmail.com
