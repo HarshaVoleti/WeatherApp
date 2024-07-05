@@ -59,24 +59,22 @@ flutter run
 <p> A simple weather app built with Flutter and OpenWeatherAPI that displays current weather information for a given city. The app also fetches and displays a background image of the city.</p>
 
 ### Here is the quick tour on how to use our app
-
-<div align="center"><img src="https://user-images.githubusercontent.com/97936126/228750753-88443163-8ea3-4b48-bcbb-0da79980270a.png" width="200" height="400" ></div>
 After installing our app.
 
 #### <h3><ins>Home Screen.</ins></h3>
  User have to enter City name and hit Get Weather button.
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="screenshot/homepage.png" width="200" height="400" >
+<img src="[screenshot/homepage.png](https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/homepage.png)" width="200" height="400" >
 </div>
 
 #### <h3><ins>Weather Screen.</ins></h3>
 Here in this screen, you can see Current weather condition including temperature, humidity, wind speed, updated Time and also u can refresh to fetch the latest information.
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://user-images.githubusercontent.com/97936126/229849424-74df9348-2808-4ef4-80ac-1239bf3b415f.png" width="200" height="400" >
-
-<img src="https://user-images.githubusercontent.com/97936126/229846461-eed93a9f-5e35-45b2-8ee0-3e75c40c5bcb.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/NewYork.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/Paris.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/Dubai.png" width="200" height="400" >
 </div>
 
 🛠️ Built With
